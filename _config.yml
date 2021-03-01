@@ -19,9 +19,9 @@ disqus_shortname: #disqus shortname
 
 user:
   name: Keno Kim
-  pic: /assets/img/veigar.jpeg
+  pic: /assets/img/teemo_cute.jpg
   picAlt: "Keno Kim"
-  job: Undergraduate who dreams to be a software engineer
+  job: Student
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
